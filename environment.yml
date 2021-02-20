@@ -12,4 +12,8 @@ dependencies:
   - matplotlib
   - ipympl
   - pandas
+  - scikit-learn
+  - graphviz
+  - pydotplus
+  - imbalanced-learn
   
